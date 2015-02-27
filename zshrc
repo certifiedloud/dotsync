@@ -1,3 +1,7 @@
+#virtualenvwrapper
+export WORKON_HOME=~/.virtualenvs
+source /usr/bin/virtualenvwrapper.sh
+
 screenfetch
 # Path to your oh-my-zsh installation.
 export ZSH=/home/cody/.oh-my-zsh
