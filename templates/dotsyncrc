@@ -17,6 +17,11 @@
 #
 [files]
 dotsyncrc
+bashrc
+config:.i3/config
+vimrc
+Xresources
+zshrc
 #ack/ackrc
 #aptitude
 #bin:bin
