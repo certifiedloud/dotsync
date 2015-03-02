@@ -2,6 +2,9 @@
 export WORKON_HOME=~/.virtualenvs
 source /usr/bin/virtualenvwrapper.sh
 
+#load my xterm config
+xrdb -load ~/.Xresources
+
 screenfetch
 # Path to your oh-my-zsh installation.
 export ZSH=/home/cody/.oh-my-zsh
