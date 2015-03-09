@@ -2,6 +2,8 @@
 export WORKON_HOME=~/.virtualenvs
 source /usr/bin/virtualenvwrapper.sh
 
+export EDITOR="vim"
+
 #load my xterm config
 xrdb -load ~/.Xresources
 
