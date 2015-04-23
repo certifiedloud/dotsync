@@ -4,6 +4,7 @@ source /usr/bin/virtualenvwrapper.sh
 
 export EDITOR="vim"
 
+
 #load my xterm config
 xrdb -load ~/.Xresources
 
@@ -88,3 +89,5 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#set vi mode
+set -o vi
