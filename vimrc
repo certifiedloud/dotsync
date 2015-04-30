@@ -4,6 +4,7 @@ set rtp+=~/.vim/bundle/Vundle.vim/
 call vundle#rc()
 
 Bundle 'chase/vim-ansible-yaml'                            
+Bundle "MicahElliott/Rocannon"
 Plugin 'scrooloose/syntastic'
 Plugin 'dbakker/vim-lint'
 Plugin 'hdima/python-syntax'
