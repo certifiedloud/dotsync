@@ -12,4 +12,4 @@ Plugin 'hdima/python-syntax'
 filetype plugin indent on
 syntax on
 set number
-colorscheme BusyBee
+colorscheme jellybeans
