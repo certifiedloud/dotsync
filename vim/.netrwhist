@@ -1,11 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/cody/.dotfiles'
-let g:netrw_dirhist_2='/home/cody/.oh-my-zsh'
-let g:netrw_dirhist_3='/home/cody/Downloads/META-INF'
-let g:netrw_dirhist_4='/home/cody/code/go/go-binary-search'
-let g:netrw_dirhist_5='/home/cody/code/c++/euler/euler2'
-let g:netrw_dirhist_6='/home/cody/.git-credential-cache'
-let g:netrw_dirhist_7='/home/cody/.i3'
-let g:netrw_dirhist_8='/usr/share/dict'
-let g:netrw_dirhist_9='/home/cody/code/vim-ansible-yaml/ftplugin'
+let g:netrw_dirhist_cnt =0
