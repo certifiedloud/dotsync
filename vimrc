@@ -18,7 +18,7 @@ syntax on
 " line numbers
 set number
 
-colorscheme jellybeans
+colorscheme wombat256mod
 
 set expandtab       " tabs are converted to spaces
 set tabstop=4       " numbers of spaces of tab character
